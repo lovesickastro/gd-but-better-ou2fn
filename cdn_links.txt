@@ -1,0 +1,11 @@
+# MULTIPLIED LINKS (10 total across 1 sites via standard):
+https://cdn.jsdelivr.net/gh/lovesickastro/gd-but-better-ou2fn@main/v0001/gd-but-better.html
+https://fastly.jsdelivr.net/gh/lovesickastro/gd-but-better-ou2fn@main/v0001/gd-but-better.html
+https://gcore.jsdelivr.net/gh/lovesickastro/gd-but-better-ou2fn@main/v0001/gd-but-better.html
+https://testingcf.jsdelivr.net/gh/lovesickastro/gd-but-better-ou2fn@main/v0001/gd-but-better.html
+https://cdn.statically.io/gh/lovesickastro/gd-but-better-ou2fn/main/v0001/gd-but-better.html
+https://rawcdn.githack.com/lovesickastro/gd-but-better-ou2fn/main/v0001/gd-but-better.html
+https://raw.githack.com/lovesickastro/gd-but-better-ou2fn/main/v0001/gd-but-better.html
+https://raw.githubusercontent.com/lovesickastro/gd-but-better-ou2fn/main/v0001/gd-but-better.html
+https://esm.sh/gh/lovesickastro/gd-but-better-ou2fn@main/v0001/gd-but-better.html
+https://raw.esm.sh/gh/lovesickastro/gd-but-better-ou2fn@main/v0001/gd-but-better.html
